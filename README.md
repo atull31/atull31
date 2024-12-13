@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @atull31
-- 👀 I’m interested in JAVA & other software use which will cover upcoming years of coding/developing
-- 🌱 I’m currently learning C&JAVA
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ML and will upload many projects in upcoming months.
+- 🌱 I’m currently learning ML.
+- 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me - my email is - imatul5899@gmail.com
-
-<!---
-atull31/atull31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
