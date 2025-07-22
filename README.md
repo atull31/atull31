@@ -12,10 +12,11 @@ Currently, I'm actively seeking **internship opportunities** in the AI/ML field 
 
 ## 🛠️ Technical Toolkit
 
-* **Languages:** **Python**, **Java**, **C**, **MongoDB**, **FastAPI**
+* **Languages:** **Python**, **Java**, **C**
+* **Databases:** MySQL, MongoDB
 * **AI/ML Concepts:** Machine Learning Fundamentals, Deep Learning Basics, Data Preprocessing & Analysis, Model Evaluation & Optimization
 * **Libraries/Frameworks:** Scikit-learn, TensorFlow/Keras (or PyTorch if preferred), Pandas, NumPy, Matplotlib
-* **Tools:** Git/GitHub, Jupyter Notebooks
+* **Tools:** Git/GitHub, Jupyter Notebooks, FastAPI
 
 *I regularly update my skills as I continue learning and growing!*
 
