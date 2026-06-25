@@ -26,6 +26,7 @@ Currently, I'm actively seeking **internship opportunities** in the AI/ML field 
 
 * **X (Twitter):** [@peter_griffith0](https://x.com/peter_griffith0)
 * **LinkedIn:** www.linkedin.com/in/atulkumar31
+* * **LinkedIn:** https://leetcode.com/u/cheesebowl/
 
 ---
 
